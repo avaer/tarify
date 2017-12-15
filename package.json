@@ -1,18 +1,17 @@
 {
-  "name": "tar-js",
+  "name": "tarify",
   "description": "Tar implemented in the browser",
-  "version": "0.2.0",
-  "homepage": "http://github.com/beatgammit/tar-js",
+  "version": "0.0.1",
+  "homepage": "http://github.com/modulesio/tarify",
   "repository": {
     "type": "git",
-    "url": "git://github.com/beatgammit/tar-js.git"
+    "url": "git://github.com//tarify/tarify.git"
   },
-  "author": "T. Jameson Little <t.jameson.little@gmail.com>",
+  "author": "Avaer Kazmer <a@modules.io>",
   "main": "lib/tar.js",
-  "keywords": ["tar", "browser", "client", "offline"],
-  "directories": {
-    "lib": "lib"
-  },
-  "dependencies": {
-  }
+  "keywords": [
+    "tar",
+    "browser"
+  ],
+  "dependencies": {}
 }
