@@ -8,7 +8,7 @@
     "url": "git://github.com//tarify/tarify.git"
   },
   "author": "Avaer Kazmer <a@modules.io>",
-  "main": "lib/tar.js",
+  "main": "build/tarify.js",
   "keywords": [
     "tar",
     "browser"
